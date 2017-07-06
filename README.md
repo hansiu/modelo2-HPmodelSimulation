@@ -16,3 +16,4 @@ After the simulation there will be a lot of files generated which are:
 * histograms of number of contacts for each temperature
 * best.pdb file with a model for a start conformation and one of conformations with best number of contacs for each temperature
 
+(example in ./1)
